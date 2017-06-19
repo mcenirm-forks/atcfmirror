@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL022017</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>5</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20170619 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170619 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706192100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Mon Jun 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1497906000</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL STORM</systemType>
+<systemName>BRET</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>9.4</centerLocLatitude>
+<centerLocLongitude>-59.8</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>9.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>59.8W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct5d>N/A</formationChancePct5d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>30</systemSpeedMph>
+<systemSpeedKph>48</systemSpeedKph>
+<systemSpeedKts>26</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 125 MI...200 KM SE OF TRINIDAD</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 225 MI...365 KM SE OF GRENADA</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Bret Advisory Number   5
+NWS National Hurricane Center Miami FL       AL022017
+500 PM AST Mon Jun 19 2017
+
+...HURRICANE HUNTER AIRCRAFT FIND THE DISTURBANCE HAS BECOME A
+TROPICAL STORM...
+
+
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...9.4N 59.8W
+ABOUT 125 MI...200 KM SE OF TRINIDAD
+ABOUT 225 MI...365 KM SE OF GRENADA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 30 MPH...48 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Trinidad
+* Tobago
+* Grenada
+* Venezuela from Pedernales to Cumana including Isla de Margarita
+
+A Tropical Storm Watch is in effect for...
+* Bonaire
+* Curacao
+* Aruba
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within 24
+hours.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 500 PM AST (2100 UTC), the center of Tropical Storm Bret was
+located by an Air Force Hurricane Hunter aircraft to be near
+latitude 9.4 North, longitude 59.8 West. Bret is moving toward the
+west-northwest near 30 mph (48 km/h) and is expected to continue at
+a slightly slower speed over the next 48 hours.  On the forecast
+track, the tropical storm is expected to move near or over Trinidad
+and the eastern coast of Venezuela tonight and early Tuesday.
+
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Little change in strength is forecast during the next 48 hours.
+
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center, mainly north of the center.
+
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND:  Tropical storm conditions are expected to first reach
+portions of the warning area tonight, making outside preparations
+difficult or dangerous.
+
+RAINFALL:  The disturbance is expected to produce total rain
+accumulations of 2 to 4 inches over the Windward Islands and the
+eastern coast of Venezuela tonight and Tuesday.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM AST.
+Next complete advisory at 1100 PM AST.
+
+$$
+Forecaster Landsea
+
+NNNN
+</message>
+</cycloneMessage>

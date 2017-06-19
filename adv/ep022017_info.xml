@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP022017</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>9</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20170602 10:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170602 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706021500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 AM CDT Fri Jun 02</messageDateTimeLocalStr>
+<timeEpochSeconds>1496415600</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>BEATRIZ</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>17.2</centerLocLatitude>
+<centerLocLongitude>-96.1</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>17.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>96.1W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>25</systemIntensityMph>
+<systemIntensityKph>35</systemIntensityKph>
+<systemIntensityKts>20</systemIntensityKts>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct5d>N/A</formationChancePct5d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 105 MI...170 KM NNE OF PUERTO ANGEL MEXICO</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Post-Tropical Cyclone Beatriz Advisory Number   9
+NWS National Hurricane Center Miami FL       EP022017
+1000 AM CDT Fri Jun 02 2017
+
+...BEATRIZ DEGENERATES TO A REMNANT LOW PRESSURE AREA...
+...POTENTIAL FOR LIFE-THREATENING FLASH FLOODS CONTINUES IN THE
+MEXICAN STATE OF OAXACA...
+
+
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...17.2N 96.1W
+ABOUT 105 MI...170 KM NNE OF PUERTO ANGEL MEXICO
+MAXIMUM SUSTAINED WINDS...25 MPH...35 KM/H
+PRESENT MOVEMENT...NNE OR 20 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1000 AM CDT (1500 UTC), the center of Post-Tropical Cyclone
+Beatriz was located near latitude 17.2 North, longitude 96.1 West.
+The post-tropical cyclone is moving toward the north-northeast near
+7 mph (11 km/h) and this motion is expected to continue through
+tonight. On the forecast track, the remnant low should move across
+southern Mexico through tonight.
+
+Maximum sustained winds are near 25 mph (35 km/h) with higher gusts.
+The cyclone is expected to dissipate tonight over southern Mexico.
+
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL: The remnants of Beatriz are expected to produce additional
+rainfall of 2 to 5 inches over portions of the Mexican state of
+Oaxaca with isolated maximum storm total amounts of 18 inches
+possible.  While rainfall intensity will be on a decreasing trend
+today, the potential for life-threatening flash floods and mudslides
+will continue.  Lighter rainfall amounts in the 1 to 3 inch range
+are possible across the southern portion of the Mexican state of
+Veracruz.
+
+
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane
+Center on this system.
+
+$$
+Forecaster Beven
+
+NNNN
+</message>
+</cycloneMessage>

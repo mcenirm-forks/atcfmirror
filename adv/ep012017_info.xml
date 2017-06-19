@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP012017</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>8</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20170511 10:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170511 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201705111500</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 AM CDT Thu May 11</messageDateTimeLocalStr>
+<timeEpochSeconds>1494514800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>ADRIAN</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>11.3</centerLocLatitude>
+<centerLocLongitude>-93.8</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>11.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>93.8W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1008</systemMslpMb>
+<systemMslpInHg>29.77</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct5d>N/A</formationChancePct5d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NW OR 315 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 350 MI...565 KM SSE OF SALINA CRUZ MEXICO</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Post-Tropical Cyclone Adrian Advisory Number   8
+NWS National Hurricane Center Miami FL       EP012017
+1000 AM CDT Thu May 11 2017
+
+...ADRIAN HAS BECOME A REMNANT LOW...
+...THIS IS THE LAST ADVISORY...
+
+
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...11.3N 93.8W
+ABOUT 350 MI...565 KM SSE OF SALINA CRUZ MEXICO
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1000 AM CDT (1500 UTC), the center of Post-Tropical Cyclone
+Adrian was located near latitude 11.3 North, longitude 93.8 West.
+The post-tropical cyclone is moving toward the northwest near 7 mph
+(11 km/h) and a gradual turn toward the west-northwest is expected
+over the next 48 hours.
+
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Some weakening is forecast during the next 48 hours.
+
+The estimated minimum central pressure is 1008 mb (29.77 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None.
+
+
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane
+Center on this system.  For additional information on the remnant
+low please see High Seas Forecasts issued by the National Weather
+Service, under AWIPS header NFDHSFEPI, WMO header FZPN02 KWBC, and
+on the web at http://www.opc.ncep.noaa.gov/shtml/NFDHSFEPI.shtml.
+
+
+$$
+Forecaster Pasch
+
+NNNN
+</message>
+</cycloneMessage>
