@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL022017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>5</advisoryNumber>
+<advisoryNumber>7A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170619 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20170619 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706192100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Mon Jun 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1497906000</timeEpochSeconds>
+<messageDateTimeLocal>20170620 08:00:00 AM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20170620 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706201200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 AM AST Tue Jun 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1497960000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>BRET</systemName>
@@ -19,54 +19,51 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>9.4</centerLocLatitude>
-<centerLocLongitude>-59.8</centerLocLongitude>
+<centerLocLatitude>11.1</centerLocLatitude>
+<centerLocLongitude>-63.6</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>9.4N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>59.8W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>11.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>63.6W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>40</systemIntensityMph>
-<systemIntensityKph>65</systemIntensityKph>
-<systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1007</systemMslpMb>
-<systemMslpInHg>29.74</systemMslpInHg>
+<systemIntensityMph>45</systemIntensityMph>
+<systemIntensityKph>75</systemIntensityKph>
+<systemIntensityKts>40</systemIntensityKts>
+<systemMslpMb>1008</systemMslpMb>
+<systemMslpInHg>29.77</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
 <systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>30</systemSpeedMph>
-<systemSpeedKph>48</systemSpeedKph>
-<systemSpeedKts>26</systemSpeedKts>
+<systemSpeedMph>21</systemSpeedMph>
+<systemSpeedKph>33</systemSpeedKph>
+<systemSpeedKts>18</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 125 MI...200 KM SE OF TRINIDAD</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 225 MI...365 KM SE OF GRENADA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 20 MI...35 KM ENE OF ISLA MARGARITA</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT2 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Bret Advisory Number   5
+Tropical Storm Bret Intermediate Advisory Number 7A
 NWS National Hurricane Center Miami FL       AL022017
-500 PM AST Mon Jun 19 2017
+800 AM AST Tue Jun 20 2017
 
-...HURRICANE HUNTER AIRCRAFT FIND THE DISTURBANCE HAS BECOME A
-TROPICAL STORM...
+...BRET MOVING INTO THE SOUTHEASTERN CARIBBEAN SEA...
 
 
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+SUMMARY OF 800 AM AST...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...9.4N 59.8W
-ABOUT 125 MI...200 KM SE OF TRINIDAD
-ABOUT 225 MI...365 KM SE OF GRENADA
-MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...WNW OR 290 DEGREES AT 30 MPH...48 KM/H
-MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+LOCATION...11.1N 63.6W
+ABOUT 20 MI...35 KM ENE OF ISLA MARGARITA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 21 MPH...33 KM/H
+MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
 
 
 WATCHES AND WARNINGS
@@ -78,9 +75,6 @@ None.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Tropical Storm Warning is in effect for...
-* Trinidad
-* Tobago
-* Grenada
 * Venezuela from Pedernales to Cumana including Isla de Margarita
 
 A Tropical Storm Watch is in effect for...
@@ -88,55 +82,50 @@ A Tropical Storm Watch is in effect for...
 * Curacao
 * Aruba
 
-A Tropical Storm Warning means that tropical storm conditions are
-expected somewhere within the warning area, in this case within 24
-hours.
-
-A Tropical Storm Watch means that tropical storm conditions are
-possible within the watch area, generally within 48 hours.
-
-For storm information specific to your area, please monitor
-products issued by your national meteorological service.
+For storm information specific to your area, please monitor products
+issued by your national meteorological service.
 
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Bret was
-located by an Air Force Hurricane Hunter aircraft to be near
-latitude 9.4 North, longitude 59.8 West. Bret is moving toward the
-west-northwest near 30 mph (48 km/h) and is expected to continue at
-a slightly slower speed over the next 48 hours.  On the forecast
-track, the tropical storm is expected to move near or over Trinidad
-and the eastern coast of Venezuela tonight and early Tuesday.
+At 800 AM AST (1200 UTC), the center of Tropical Storm Bret was
+located near latitude 11.1 North, longitude 63.6 West.  Bret is
+moving toward the west-northwest near 21 mph (33 km/h), and this
+general motion is expected to continue through today.  On the
+forecast track, the center of the tropical storm will continue to
+move across the southeastern Caribbean Sea today.
 
-Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Little change in strength is forecast during the next 48 hours.
+Surface observations from the eastern Caribbean Sea indicate that
+the maximum sustained winds are near 45 mph (75 km/h) with higher
+gusts. Little change in strength is forecast today, and a weakening
+trend is expected to begin later today and Bret is forecast to
+become a tropical depression on Wednesday.
 
-Tropical-storm-force winds extend outward up to 80 miles (130 km)
-from the center, mainly north of the center.
+Tropical-storm-force winds extend outward up to 125 miles (205 km)
+primarily to the north of the center.
 
-The estimated minimum central pressure is 1007 mb (29.74 inches).
+The estimated minimum central pressure is 1008 mb (29.77 inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
-WIND:  Tropical storm conditions are expected to first reach
-portions of the warning area tonight, making outside preparations
-difficult or dangerous.
+WIND:  Tropical storm conditions will occur over portions of the
+warning area for the next several hours, but these conditions should
+subside later today.
 
-RAINFALL:  The disturbance is expected to produce total rain
-accumulations of 2 to 4 inches over the Windward Islands and the
-eastern coast of Venezuela tonight and Tuesday.
+RAINFALL:  Bret is expected to produce total rain accumulations of 2
+to 4 inches over the Windward Islands and the northeastern coast of
+Venezuela through today.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 800 PM AST.
-Next complete advisory at 1100 PM AST.
+Next complete advisory at 1100 AM AST.
 
 $$
-Forecaster Landsea
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>

@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL032017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>1</advisoryNumber>
+<advisoryNumber>3A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170619 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170619 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706192100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Mon Jun 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1497906000</timeEpochSeconds>
+<messageDateTimeLocal>20170620 07:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170620 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706201200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 AM CDT Tue Jun 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1497960000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>POTENTIAL TROPICAL CYCLONE</systemType>
 <systemName>THREE</systemName>
@@ -19,72 +19,71 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>24.7</centerLocLatitude>
-<centerLocLongitude>-88.7</centerLocLongitude>
+<centerLocLatitude>25.4</centerLocLatitude>
+<centerLocLongitude>-90.3</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>24.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>88.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>25.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>90.3W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>40</systemIntensityMph>
 <systemIntensityKph>65</systemIntensityKph>
 <systemIntensityKts>35</systemIntensityKts>
-<systemMslpMb>1002</systemMslpMb>
-<systemMslpInHg>29.59</systemMslpInHg>
+<systemMslpMb>999</systemMslpMb>
+<systemMslpInHg>29.50</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
-<formationChancePct48h>80</formationChancePct48h>
-<formationChancePct5d>80</formationChancePct5d>
+<formationChancePct48h>90</formationChancePct48h>
+<formationChancePct5d>90</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>N OR 350 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>NW OR 315 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>9</systemSpeedMph>
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 305 MI...490 KM S OF THE MOUTH OF THE MISSISSIPPI RIVER</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 380 MI...610 KM SSE OF MORGAN CITY LOUISIANA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 265 MI...430 KM SSW OF THE MOUTH OF THE MISSISSIPPI RIVER</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 300 MI...485 KM S OF MORGAN CITY LOUISIANA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Potential Tropical Cyclone Three Advisory Number   1
+Potential Tropical Cyclone Three Intermediate Advisory Number 3A
 NWS National Hurricane Center Miami FL       AL032017
-400 PM CDT Mon Jun 19 2017
+700 AM CDT Tue Jun 20 2017
 
-...TROPICAL STORM WARNING ISSUED FOR PART OF THE LOUISIANA COAST...
+...DISTURBANCE GRADUALLY BECOMING BETTER ORGANIZED OVER THE CENTRAL
+GULF OF MEXICO...
+...HEAVY RAINFALL EXPECTED ACROSS PORTIONS OF THE CENTRAL AND
+EASTERN GULF COAST...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...24.7N 88.7W
-ABOUT 305 MI...490 KM S OF THE MOUTH OF THE MISSISSIPPI RIVER
-ABOUT 380 MI...610 KM SSE OF MORGAN CITY LOUISIANA
+LOCATION...25.4N 90.3W
+ABOUT 265 MI...430 KM SSW OF THE MOUTH OF THE MISSISSIPPI RIVER
+ABOUT 300 MI...485 KM S OF MORGAN CITY LOUISIANA
 MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
-PRESENT MOVEMENT...N OR 350 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-A Tropical Storm Warning is in effect from Intracoastal City,
-Louisiana, to the Mouth of the Pearl River.
-
-A Tropical Storm Watch is in effect from west of Intracoastal City
-to High Island, Texas.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Tropical Storm Warning is in effect for...
-* Intracoastal City to the Mouth of the Pearl River
+* Cameron to the Mouth of the Pearl River
 
 A Tropical Storm Watch is in effect for...
-* West of Intracoastal City to High Island
+* West of Cameron to High Island
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area, in this case within the
@@ -104,52 +103,61 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the disturbance was centered near latitude
-24.7 North, longitude 88.7 West. The system is moving toward the
-north near 9 mph (15 km/h). A turn toward the north-northwest is
-expected tonight, followed by a slower motion toward the northwest
-on Tuesday and Tuesday night. On the forecast track, the
-disturbance will move toward the Louisiana coast on Tuesday and
-Wednesday.
+At 700 AM CDT (1200 UTC), the disturbance was centered near latitude
+25.4 North, longitude 90.3 West. The system is moving toward the
+northwest near 9 mph (15 km/h), and this general motion should
+continue through Wednesday, with a turn toward the north expected
+Wednesday night or Thursday. On the forecast track, the disturbance
+is expected to be near the Louisiana coast late Wednesday or
+Wednesday night.
 
 Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
-Some slight strengthening is possible before the system reaches
-the coast.
+Some slight strengthening is possible before the system reaches the
+coast.
 
-Upper-level winds are expected to be marginally conducive for some
-additional development of this system during the next day or two,
-and a tropical or subtropical cyclone is likely to form during that
-time.
-* Formation chance through 48 hours...high...80 percent
-* Formation chance through 5 days...high...80 percent
+Satellite imagery shows that the center of the disturbance is
+gradually become better defined, and it is likely that the system
+will become a tropical or subtropical cyclone later today.
+* Formation chance through 48 hours...high...90 percent
+* Formation chance through 5 days...high...90 percent
 
 Tropical-storm-force winds extend outward up to 205 miles (335 km)
-to the north and east of the center.
+mainly to the east of the center.
 
-The estimated minimum central pressure is 1002 mb (29.59 inches).
+The estimated minimum central pressure is 999 mb (29.50 inches).
+NOAA buoy 42001 just reported a pressure of 1000.6 mb (29.54
+inches).
 
 
 HAZARDS AFFECTING LAND
 ----------------------
 WIND:  Tropical storm conditions are expected to first reach the
-coast within the warning area on Tuesday. Tropical storm conditions
-are possible in the watch area on Wednesday.
+coast within the warning area by this afternoon. Tropical storm
+conditions are possible in the watch area on Wednesday.
 
 RAINFALL:  The disturbance is expected to produce total rain
-accumulations of 4 to 8 inches with isolated maximum amounts of 10
-inches over southeastern Louisiana, southern Mississippi and
-Alabama, and the western Florida Panhandle through Wednesday
-evening.
+accumulations of 4 to 8 inches with isolated maximum amounts of
+10 inches over southeastern Louisiana, southern Mississippi,
+southern Alabama, and the Florida Panhandle through Thursday
+morning.  Rainfall amounts of 2 to 4 inches with isolated maximum
+amounts of 6 inches can be expected farther west across southwest
+Louisiana into southeast Texas through Thursday morning.
+
+STORM SURGE:  Inundations of 1 to 3 feet are possible along the
+coast in the Tropical Storm Warning area.
+
+TORNADOES:  A tornado or two is possible this afternoon and tonight
+from south-central Louisiana to the western Florida Panhandle.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
-Next complete advisory at 1000 PM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
 Forecaster Brennan
 
 NNNN
+
 </message>
 </cycloneMessage>
