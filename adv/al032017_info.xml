@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>AL032017</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>ROUTINE ADVISORY</messageType>
+<messageType>INTERMEDIATE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>5</advisoryNumber>
+<advisoryNumber>7A</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20170620 04:00:00 PM CDT</messageDateTimeLocal>
-<messageDateTimeUTC>20170620 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>201706202100</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0400 PM CDT Tue Jun 20</messageDateTimeLocalStr>
-<timeEpochSeconds>1497992400</timeEpochSeconds>
+<messageDateTimeLocal>20170621 07:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20170621 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>201706211200</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 AM CDT Wed Jun 21</messageDateTimeLocalStr>
+<timeEpochSeconds>1498046400</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>CINDY</systemName>
@@ -19,72 +19,72 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>25.7</centerLocLatitude>
-<centerLocLongitude>-90.6</centerLocLongitude>
+<centerLocLatitude>27.5</centerLocLatitude>
+<centerLocLongitude>-92.2</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>25.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>90.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>27.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>92.2W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>45</systemIntensityMph>
-<systemIntensityKph>75</systemIntensityKph>
-<systemIntensityKts>40</systemIntensityKts>
-<systemMslpMb>999</systemMslpMb>
-<systemMslpInHg>29.50</systemMslpInHg>
+<systemIntensityMph>60</systemIntensityMph>
+<systemIntensityKph>95</systemIntensityKph>
+<systemIntensityKts>50</systemIntensityKts>
+<systemMslpMb>996</systemMslpMb>
+<systemMslpInHg>29.41</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct5d>N/A</formationChancePct5d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>STATIONARY</systemDirectionOfMotion>
-<systemSpeedMph>0</systemSpeedMph>
-<systemSpeedKph>0</systemSpeedKph>
-<systemSpeedKts>0</systemSpeedKts>
+<systemDirectionOfMotion>NW OR 310 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 280 MI...450 KM S OF MORGAN CITY LOUISIANA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 360 MI...575 KM SE OF GALVESTON TEXAS</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 165 MI...265 KM SSW OF MORGAN CITY LOUISIANA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 200 MI...325 KM SE OF GALVESTON TEXAS</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT3 ALL
 TTAA00 KNHC DDHHMM
 
 BULLETIN
-Tropical Storm Cindy Advisory Number   5
+Tropical Storm Cindy Intermediate Advisory Number 7A
 NWS National Hurricane Center Miami FL       AL032017
-400 PM CDT Tue Jun 20 2017
+700 AM CDT Wed Jun 21 2017
 
-...CINDY MEANDERING OVER THE CENTRAL GULF...
 ...HEAVY RAINFALL COULD PRODUCE LIFE-THREATENING FLASH FLOODING
 ACROSS PORTIONS OF THE NORTHERN GULF COAST...
 
 
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...25.7N 90.6W
-ABOUT 280 MI...450 KM S OF MORGAN CITY LOUISIANA
-ABOUT 360 MI...575 KM SE OF GALVESTON TEXAS
-MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
-PRESENT MOVEMENT...STATIONARY
-MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+LOCATION...27.5N 92.2W
+ABOUT 165 MI...265 KM SSW OF MORGAN CITY LOUISIANA
+ABOUT 200 MI...325 KM SE OF GALVESTON TEXAS
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...996 MB...29.41 INCHES
 
 
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
 
-The Tropical Storm Warning has been extended westward to San Luis
-Pass, Texas.
+None.
 
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 
 A Tropical Storm Warning is in effect for...
-* San Luis Pass to the Mouth of the Pearl River
+* San Luis Pass Texas to the Alabama-Florida border
+* Metropolitan New Orleans
+* Lake Pontchartrain
 
 A Tropical Storm Warning means that tropical storm conditions are
 expected somewhere within the warning area, in this case within the
-next 24 to 36 hours.
+next 12 to 24 hours.
 
 Interests elsewhere along the U.S. Gulf Coast from the central Texas
 coast to the western Florida Panhandle should monitor the progress
@@ -97,23 +97,25 @@ local National Weather Service forecast office.
 
 DISCUSSION AND 48-HOUR OUTLOOK
 ------------------------------
-At 400 PM CDT (2100 UTC), the center of Tropical Storm Cindy was
-located near latitude 25.7 North, longitude 90.6 West. Cindy has
-been nearly stationary for the past several hours, but a
-northwestward motion is expected to resume tonight and continue
-through Wednesday. A turn toward the north-northwest and then toward
-the north is expected Wednesday night and early Thursday. On the
-forecast track, the center of Cindy will approach the coast of
-southwest Louisiana and southeast Texas late Wednesday and Wednesday
-night, and move inland over southeastern Texas on Thursday.
+At 700 AM CDT (1200 UTC), the center of Tropical Storm Cindy was
+located near latitude 27.5 North, longitude 92.2 West. Cindy is
+moving toward the northwest near 8 mph (13 km/h), and this motion is
+expected to continue today.  A turn toward the north-northwest and
+then toward the north is expected later today and early Thursday. On
+the forecast track, the center of Cindy will approach the coast of
+southwest Louisiana and southeast Texas late today or tonight, and
+move inland over southeastern Texas or southwestern Louisiana on
+Thursday.
 
-Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
-Some slight strengthening is expected during the next 24 hours.
+Maximum sustained winds remain near 60 mph (95 km/h) with higher
+gusts. Little change in strength is expected today.  Slight
+weakening is forecast to begin on Thursday.
 
-Tropical-storm-force winds extend outward up to 205 miles (335 km)
-from the center, mainly to the north and east of the center.
+Tropical-storm-force winds extend outward up to 275 miles (445 km),
+mainly north through northeast of the center.
 
-The estimated minimum central pressure is 999 mb (29.50 inches).
+The minimum central pressure recently reported by an Air Force
+Hurricane Hunter aircraft was 996 mb (29.41 inches).
 
 
 HAZARDS AFFECTING LAND
@@ -121,33 +123,37 @@ HAZARDS AFFECTING LAND
 RAINFALL:  Cindy is expected to produce total rain accumulations of
 6 to 9 inches with isolated maximum amounts of 12 inches over
 southeastern Louisiana, southern Mississippi, southern Alabama, and
-the Florida Panhandle through Thursday. This rainfall could cause
+the Florida Panhandle through Thursday.  This rainfall could cause
 life-threatening flash flooding in these areas.
 
 Rainfall amounts of 3 to 5 inches with isolated maximum amounts of 6
-inches can be expected farther west across southwest Louisiana into
-southeast Texas through Thursday.
+inches can be expected farther west across western Louisiana and
+eastern Texas through Thursday.  Rainfall should spread
+northeastward across Arkansas and into portions of the Tennessee and
+Ohio Valleys through Friday, with total rain accumulations of 3 to 5
+inches with locally higher amounts possible.
 
-WIND:  Tropical storm conditions are expected to first reach the
-coast within the warning area later today and spread westward within
-the warning area through early Thursday.
+WIND:  Tropical storm conditions are affecting portions of the
+northern Gulf of Mexico coast over the eastern part of the warning
+area.  These conditions should spread westward within the warning
+area through early Thursday.
 
 STORM SURGE:  Inundation of 1 to 3 feet above ground level is
-possible along the coast in portions of the Tropical Storm Warning
-area.
+expected along the coast in portions of the Tropical Storm Warning
+area, with isolated areas possibly up to 4 feet.
 
-TORNADOES:  Isolated tornadoes are possible this evening and tonight
-from south-central Louisiana to the western Florida Panhandle.
+TORNADOES:  A few tornadoes are possible this morning through
+tonight from the western Florida Panhandle to southern Louisiana.
 
 
 NEXT ADVISORY
 -------------
-Next intermediate advisory at 700 PM CDT.
-Next complete advisory at 1000 PM CDT.
+Next complete advisory at 1000 AM CDT.
 
 $$
-Forecaster Brennan
+Forecaster Avila
 
 NNNN
+
 </message>
 </cycloneMessage>
